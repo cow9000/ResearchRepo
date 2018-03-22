@@ -4,7 +4,7 @@ As of right now, in this point of time, this is where the research code will be 
 
 ## Progress list (more will be added)
 - [x] Code uploaded
-- [] Tutorials implemented
+- [ ] Tutorials implemented
 
 ## Useful links -
 - Grayscale program written to crop and grayscale images (https://github.com/cow9000/Grayscale)
